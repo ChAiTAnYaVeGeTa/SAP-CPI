@@ -1,5 +1,4 @@
-## SAP-CPI(SAP CPI Integration Projects)
-![License](https://img.shields.io/badge/License-SAP-green?style=for-the-badge)
+## SAP-CPI![SAP CPI](https://img.shields.io/badge/SAP%20CPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)(SAP CPI Integration Projects)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 ![Experience](https://img.shields.io/badge/Level-Integration_Developer-blueviolet)
 ![Focus](https://img.shields.io/badge/Focus-SAP_CPI-orange)
